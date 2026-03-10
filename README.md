@@ -8,3 +8,4 @@
 - 💻 ~ 4 - 5 years in the industry as a Full Stack Developer  
 - 🛠 Skilled in AWS, React, .NET, MSSQL (I love building stuff)
 - I post my thoughts about AI & cybersecurity here: https://www.instagram.com/estherincybersecurity/
+- Book a call with me: https://calendar.app.google/QDD6QseDdSRHub3E7
